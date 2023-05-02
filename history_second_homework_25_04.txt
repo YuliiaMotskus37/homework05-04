@@ -1,0 +1,20 @@
+   0 mkdir -p /home/user/start
+   1 touch /home/user/start/1.txt
+   2 tree /home
+   3 /home/user/start/ echo "Start" > 1.txt
+   4 echo "Start" > 1.txt
+   5 cat 1.txt
+   6 date >> 1.txt
+   7 cat 1.txt
+   8 mkdir -p /opt/task
+   9 touch /opt/task/start.txt
+  10 tree /opt
+  11 cp 1.txt start.txt
+  12 cat start.txt
+  13 ls -la
+  14 >> start.txt echo "-rw-r--r--    1 root     root            76 Jul  3  2020 hello.c
+  15 -rw-r--r--    1 root     root            22 Jun 26  2020 hello.js
+  16 -rw-r--r--    1 root     root           151 Jul  5  2020 readme.txt
+  17 -rw-r--r--    1 root     root            35 May  2 04:12 start.txt"
+  18 cat start.txt
+  19 history > history_second_homework_25_04.txt
